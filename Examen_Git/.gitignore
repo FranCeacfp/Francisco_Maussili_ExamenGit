@@ -1,1 +1,8 @@
 /bin/
+**/*.txt
+**/*.mp4
+**/*.config
+**/*.mp3
+**/*.png
+**/*.jpg
+/files/
